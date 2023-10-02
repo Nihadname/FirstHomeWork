@@ -1,0 +1,4 @@
+first Name:Nihad
+Surname;ibadzade
+age;15
+school:155 nomreli
